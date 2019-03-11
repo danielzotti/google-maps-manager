@@ -1,0 +1,27 @@
+{
+  "name": "google-maps-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@google/markerclusterer": "~1.0.3"
+  },
+  "devDependencies": {
+    "@types/googlemaps": "~3.30.16"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/danielzotti/google-maps-manager.git"
+  },
+  "keywords": [
+    "maps",
+    "google maps"
+  ],
+  "author": "Daniel Zotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/danielzotti/google-maps-manager/issues"
+  },
+  "homepage": "https://gitlab.com/danielzotti/google-maps-manager#README"
+}
