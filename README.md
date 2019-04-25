@@ -1,6 +1,6 @@
 # Google Maps Manager
 
-A library to use Google Maps in a more simple way.
+A library to use Google Maps in a more simple way. Download the project or browse `index.html` to learn how to use it.
 
 ## Dependencies
 
