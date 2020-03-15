@@ -2,6 +2,9 @@
 
 A library to use Google Maps in a more simple way. Download the project or browse `index.html` to learn how to use it.
 
+## Live demo 
+https://danielzotti.github.io/google-maps-manager
+
 ## Dependencies
 
 - [@google/markerclusterer](https://github.com/googlemaps/v3-utility-library/tree/master/markerclusterer)
